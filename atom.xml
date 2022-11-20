@@ -4,28 +4,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">Hugo 主题 MemE</title>
     <subtitle type="html">MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。</subtitle>
-    <updated>2022-11-20T16:56:23&#43;08:00</updated>
+    <updated>2022-11-20T17:34:34&#43;08:00</updated>
     <id>https://wanggggkk.github.io/</id>
     <link rel="alternate" type="text/html" href="https://wanggggkk.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://wanggggkk.github.io/atom.xml" />
     <author>
-            <name>reuixiy</name>
+            <name>星风</name>
             <uri>https://wanggggkk.github.io/</uri>
             
-                <email>reuixiy@gmail.com</email>
+                <email>77435325@qq.com</email>
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.106.0">Hugo</generator>
         <entry>
+            <title type="text">Text</title>
+            <link rel="alternate" type="text/html" href="https://wanggggkk.github.io/posts/text/" />
+            <id>https://wanggggkk.github.io/posts/text/</id>
+            <updated>2022-11-20T17:29:33&#43;08:00</updated>
+            <published>2022-11-20T17:26:59&#43;08:00</published>
+            <author>
+                    <name>星风</name>
+                    <uri>https://io-oi.me/</uri>
+                    <email>77435325@qq.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html"></summary>
+            
+                <content type="html"></content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                
+            
+        </entry>
+    
+        <entry>
             <title type="text">Hello World</title>
             <link rel="alternate" type="text/html" href="https://wanggggkk.github.io/posts/hello-world/" />
             <id>https://wanggggkk.github.io/posts/hello-world/</id>
-            <updated>2022-11-20T15:01:03&#43;08:00</updated>
+            <updated>2022-11-20T17:28:21&#43;08:00</updated>
             <published>2022-11-20T15:01:03&#43;08:00</published>
             <author>
-                    <name>reuixiy</name>
+                    <name>星风</name>
                     <uri>https://io-oi.me/</uri>
-                    <email>reuixiy@gmail.com</email>
+                    <email>77435325@qq.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html"></summary>
             
