@@ -8,7 +8,7 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Hugo 主题 MemE</title>
-        <link>https://example.com/</link>
+        <link>https://wanggggkk.github.io/</link>
         <description>MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。</description>
         <generator>Hugo 0.106.0 https://gohugo.io/</generator>
         
@@ -23,15 +23,15 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Sun, 20 Nov 2022 16:25:47 &#43;0800</lastBuildDate>
+        <lastBuildDate>Sun, 20 Nov 2022 16:56:23 &#43;0800</lastBuildDate>
         
-            <atom:link rel="self" type="application/rss&#43;xml" href="https://example.com/rss.xml" />
+            <atom:link rel="self" type="application/rss&#43;xml" href="https://wanggggkk.github.io/rss.xml" />
         
         
             <item>
                 <title>Hello World</title>
-                <link>https://example.com/posts/hello-world/</link>
-                <guid isPermaLink="true">https://example.com/posts/hello-world/</guid>
+                <link>https://wanggggkk.github.io/posts/hello-world/</link>
+                <guid isPermaLink="true">https://wanggggkk.github.io/posts/hello-world/</guid>
                 <pubDate>Sun, 20 Nov 2022 15:01:03 &#43;0800</pubDate>
                 
                     <author>reuixiy@gmail.com (reuixiy)</author>
