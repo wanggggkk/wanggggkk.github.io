@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">星风</title>
     <subtitle type="html">MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。</subtitle>
-    <updated>2022-11-22T09:13:41&#43;08:00</updated>
+    <updated>2022-11-22T22:01:50&#43;08:00</updated>
     <id>https://wanggggkk.github.io/</id>
     <link rel="alternate" type="text/html" href="https://wanggggkk.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://wanggggkk.github.io/atom.xml" />
@@ -16,6 +16,60 @@
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.106.0">Hugo</generator>
+        <entry>
+            <title type="text">面试</title>
+            <link rel="alternate" type="text/html" href="https://wanggggkk.github.io/posts/%E9%9D%A2%E8%AF%95/" />
+            <id>https://wanggggkk.github.io/posts/%E9%9D%A2%E8%AF%95/</id>
+            <updated>2022-11-22T21:54:25&#43;08:00</updated>
+            <published>2022-11-22T21:53:09&#43;08:00</published>
+            <author>
+                    <name>星风</name>
+                    <uri>https://io-oi.me/</uri>
+                    <email>77435325@qq.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">面试 Linux关键字查询 cat 或者 tail 日志文件名 | tail -n 数量 示例： cat api.log | tail -n 200 # 查看log后……</summary>
+            
+                <content type="html">&lt;h1 id=&#34;面试&#34;&gt;面试&lt;/h1&gt;
+&lt;h1 id=&#34;linux关键字查询&#34;&gt;Linux关键字查询&lt;/h1&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;cat   或者 tail 日志文件名 | tail -n 数量
+ 
+示例： cat  api.log | tail -n 200　　 # 查看log后200 行
+ 
+示例： tail  api.log | tail -n 15     # 查看log后15 行
+ 
+方法一 ：  cat  或者 tail 日志文件名 | grep  &amp;#34;关键词&amp;#34;
+ 
+ 示例1：cat  api.log | grep &amp;#34;前端入参&amp;#34;　　    # 返回log日志中包含“前端入参”字样的所有行
+ 
+ 示例2：tail  api.log | grep &amp;#34;前端入参&amp;#34;      # 返回log日志中包含“前端入参”字样的所有行
+&lt;/code&gt;&lt;/pre&gt;&lt;h1 id=&#34;调用一个接口如何保证数据数据的完整性&#34;&gt;调用一个接口如何保证数据数据的完整性&lt;/h1&gt;
+&lt;p&gt;最简单的：1：请求合法性校验,考虑采用token的方式保证接口不被其他人访问&lt;/p&gt;
+&lt;p&gt;​                   2：数据校验，白名单方式验证数据确保不出现异常数据和注入攻击。&lt;/p&gt;
+&lt;p&gt;​&lt;/p&gt;
+&lt;h1 id=&#34;hashmap四种迭代方式&#34;&gt;HashMap四种迭代方式&lt;/h1&gt;
+&lt;p&gt;迭代器Iterator方式遍历&lt;/p&gt;
+&lt;p&gt;ForEach方式遍历&lt;/p&gt;
+&lt;p&gt;Lambda表达式遍历&lt;/p&gt;
+&lt;p&gt;Streams API遍历&lt;/p&gt;
+&lt;h1 id=&#34;幂等&#34;&gt;幂等&lt;/h1&gt;
+&lt;h3 id=&#34;如何防止apihttpssocsdnnetsosearchqapispm1001210130017020接口被恶意调用&#34;&gt;如何防止&lt;a href=&#34;https://so.csdn.net/so/search?q=API&amp;amp;spm=1001.2101.3001.7020&#34;&gt;API&lt;/a&gt;接口被恶意调用&lt;/h3&gt;
+&lt;h1 id=&#34;springbootapplication注解的作用&#34;&gt;@SpringBootApplication注解的作用&lt;/h1&gt;
+&lt;p&gt;@SpringBootApplication来标注这是一个springboot的应用，被标注的类是一个主程序， SpringApplication.run(App.class, &lt;a href=&#34;https://so.csdn.net/so/search?q=args&amp;amp;spm=1001.2101.3001.7020&#34;&gt;args&lt;/a&gt;);传入的类App.class必须是被@SpringBootApplication标注的类。&lt;/p&gt;
+&lt;h2 id=&#34;zset&#34;&gt;zset&lt;/h2&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">Hello</title>
             <link rel="alternate" type="text/html" href="https://wanggggkk.github.io/posts/hello/" />
