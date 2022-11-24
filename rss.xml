@@ -23,10 +23,48 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Tue, 22 Nov 2022 22:01:50 &#43;0800</lastBuildDate>
+        <lastBuildDate>Thu, 24 Nov 2022 19:45:42 &#43;0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://wanggggkk.github.io/rss.xml" />
         
+        
+            <item>
+                <title>MySql</title>
+                <link>https://wanggggkk.github.io/posts/mysql/</link>
+                <guid isPermaLink="true">https://wanggggkk.github.io/posts/mysql/</guid>
+                <pubDate>Thu, 24 Nov 2022 19:44:12 &#43;0800</pubDate>
+                
+                    <author>77435325@qq.com (星风)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+                
+                    <description>&lt;h2 id=&#34;ioondb&#34;&gt;IoonDB&lt;/h2&gt;
+&lt;p&gt;DML操作遵循ACID模型，支持事务，四大特性：原子性一致性隔离性永久性&lt;/p&gt;
+&lt;h2 id=&#34;索引&#34;&gt;索引&lt;/h2&gt;
+&lt;p&gt;优势：提高数据检索的效率，降低数据库的io成本，通过索引对数据进行排序，降低数据排序的成本，降低cpu的消耗&lt;/p&gt;
+&lt;p&gt;缺点：索引也是要占用空间的，提高了查询效率的同时，也降低了表的更新速度，对表插入删除更新时效率降低&lt;/p&gt;
+&lt;h4 id=&#34;sql优化&#34;&gt;sql优化：&lt;/h4&gt;
+&lt;p&gt;覆盖索引：不要使用*容易回表查询&lt;/p&gt;
+&lt;p&gt;前缀索引：当字段很长时，让索引变得很大，查询时，浪费大量的磁盘io&lt;/p&gt;
+&lt;h3 id=&#34;b树&#34;&gt;B+树&lt;/h3&gt;
+&lt;p&gt;1：所有的数据都会出现在也在节点&lt;/p&gt;
+&lt;p&gt;2：叶子节点形成一个单向链表&lt;/p&gt;
+&lt;p&gt;索引结构&lt;/p&gt;
+&lt;p&gt;hash索引特点：hash索引只能用于对等比较，不支持范围查询&lt;/p&gt;
+&lt;p&gt;，无法利用索引完成排序操作，查询效率高&lt;/p&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                    
+                
+            </item>
         
             <item>
                 <title>面试</title>
